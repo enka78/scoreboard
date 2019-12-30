@@ -39,6 +39,7 @@ export default function App() {
          </ScrollView>
        </View>
        <View style={styles.content}>
+       
             <ScrollView>
                   <TouchableOpacity style={styles.contentItem}>
                       <Text> Touch Here </Text>
