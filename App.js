@@ -18,7 +18,7 @@ const addGoalHandler = () => {
 };
   return (
         <View style={styles.screen}>
-           <MyComponent></MyComponent>
+           <MyComponent></MyComponent >
           <View>
 
           </View>
